@@ -1,0 +1,18 @@
+.nav{
+    background-color: rgb(158, 155, 165);
+    max-width:100%;
+    padding: 1.2rem 2.4rem;
+    display: flex;
+    justify-content:space-between;
+}
+ul {
+    display:flex;
+    gap: 3.2rem;
+}
+.logo-brand{
+    background-color: rgb(39, 22, 22);
+}
+li{
+    list-style: none;
+  }
+  
