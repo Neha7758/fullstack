@@ -14,7 +14,7 @@ const connectDb = require("./utils/db");
 const errorMiddleware = require("./middlewares/error-middleware");
 
 const corsOptions = {
-    origin: "https://ornate-profiterole-712c03.netlify.app ",
+    origin: "https://effectiveitech.netlify.app ",
     methods: "GET,POST,PUT,DELETE,PATCH,HEAD",
     credentials: true,
 };
